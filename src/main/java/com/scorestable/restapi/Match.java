@@ -16,6 +16,7 @@ public class Match {
     private Long id;
     private String title;
 
+
     public Match() {}
 
     // Constructeur tous arguments (facultatif, pour plus de commodité)
